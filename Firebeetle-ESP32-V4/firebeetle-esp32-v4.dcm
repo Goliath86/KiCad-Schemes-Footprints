@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Firebeetle-ESP32-V4
+D DFRobot ESP32 Firebeetle Module
+F https://github.com/Robert-MARKII/Document/raw/master/FireBeetle%20Board-ESP32%20User%20Manual%20update.pdf
+$ENDCMP
+#
+#End Doc Library

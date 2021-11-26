@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Accel_5_Click
+D ultra-low power triaxial accelerometer sensor based on the Bosch BMA400 IC
+K BMA400 Bosch accelerometer low power
+F https://www.mikroe.com/accel-5-click
+$ENDCMP
+#
+#End Doc Library
